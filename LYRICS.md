@@ -21,3 +21,16 @@ L'École du micro d'argent \n
 Je représente \n
 L'École du micro d'argent \n
 L'École du micro d'argent \n
+
+##Choeur 3 \n
+L'École du micro d'argent \n
+L'École du micro d'argent \n
+Je représente \n
+L'École du micro d'argent \n
+L'École du micro d'argent \n
+Je représente \n
+L'École du micro d'argent \n
+L'École du micro d'argent \n
+Je représente \n
+L'École du micro d'argent \n
+L'École du micro d'argent \n
