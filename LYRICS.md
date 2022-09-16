@@ -3,6 +3,16 @@ Evaluation Git - Versionning de code - EFREI 2022
 
 # L'école du micro d'argent
 
+## Choeur 1
+
+L'École du micro d'argent \
+L'École du micro d'argent \
+L'École du micro d'argent \
+L'École du micro d'argent \
+L'École du micro d'argent \
+L'École du micro d'argent \
+L'École du micro d'argent
+
 ## Shurik'n
 
 Assis en tailleur, voilà des heures que je médite \
@@ -27,3 +37,29 @@ Je sens l'esprit du félin m'envahir \
 À ce stade seul le sang me procure du plaisir \
 Mes griffes gravent les couleurs de l'Empire \
 Plus grand que celui d'Alexandre dont je suis le défenseur
+
+## Choeur 2 
+L'École du micro d'argent \
+L'École du micro d'argent \
+Je représente \
+L'École du micro d'argent \
+L'École du micro d'argent \
+Je représente \
+L'École du micro d'argent \
+L'École du micro d'argent \
+Je représente \
+L'École du micro d'argent \
+L'École du micro d'argent 
+
+## Choeur 3 
+L'École du micro d'argent \
+L'École du micro d'argent \
+Je représente \
+L'École du micro d'argent \
+L'École du micro d'argent \
+Je représente \
+L'École du micro d'argent \
+L'École du micro d'argent \
+Je représente \
+L'École du micro d'argent \
+L'École du micro d'argent 
